@@ -1,1 +1,1 @@
-linuxserver/transmission
+lsioarmhf/jackett
