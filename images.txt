@@ -1,1 +1,1 @@
-flaresolverr/flaresolverr
+linuxserver/transmission
